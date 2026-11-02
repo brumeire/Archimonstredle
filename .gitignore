@@ -28,3 +28,4 @@ $RECYCLE.BIN/
 .nfs*
 AGENTS.md
 opencode.json
+.venv/
